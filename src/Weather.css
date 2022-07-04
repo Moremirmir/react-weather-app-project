@@ -22,10 +22,11 @@
   list-style: none;
 }
 .Weather img {
-  line-height: 64px;
+  height: 64px;
   width: 64px;
   margin-right: 10px;
   display: inline-block;
+  float: left;
 }
 .Weather .temperature {
   color: rgb(33, 33, 33);

@@ -1,6 +1,6 @@
 import "./App.css";
 import Weather from "./Weather";
-export default function App() {
+export default function App(props) {
   return (
     <div className="App">
       <div className="container">
