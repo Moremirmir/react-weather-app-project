@@ -1,3 +1,4 @@
+import React from "react",
 import "./App.css";
 import Weather from "./Weather";
 export default function App(props) {
@@ -10,7 +11,7 @@ export default function App(props) {
           <a
             href="https://github.com/Moremirmir/react-weather-app-project"
             target="_blank"
-            rel="noreferrer"
+            rel=" noopener noreferrer"
           >
             open-sourced{" "}
           </a>
