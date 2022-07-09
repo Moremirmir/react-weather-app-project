@@ -11,7 +11,7 @@ export default function App(props) {
           <a
             href="https://github.com/Moremirmir/react-weather-app-project"
             target="_blank"
-            rel=" noopener noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced{" "}
           </a>
