@@ -33,8 +33,9 @@
   font-weight: 400;
   margin-left: 10px;
 }
-.Weather canvas {
+.WeatherInfo canvas {
   margin: 10px auto;
+  position: left;
 }
 .Weather .unit {
   color: rgb(33, 33, 33);
